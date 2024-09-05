@@ -1,4 +1,4 @@
-### python_practice
+### Python Practice
 
 
 Repository for practicing Python concepts.
